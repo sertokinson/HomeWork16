@@ -1,4 +1,0 @@
--XX:+PrintCompilation - вывод информации о скомпилированных методах;
--XX:+UnlockDiagnosticVMOptions - разблокирует опцию -XX:+PrintInlining - вывод информации о inlining методах;
-
-
